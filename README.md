@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Zainab
 
-<!--
-**zainabshakeel1082/zainabshakeel1082** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Frontend Development enthusiast  
+🌱 Currently learning and improving my skills every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I come from a Computer Science background and I enjoy building clean and simple web interfaces.
+I am focused on improving my frontend skills and creating practical projects using HTML, CSS, and JavaScript.
+I am motivated to grow, learn modern tools, and work on real-world projects.
+
+---
+
+## 🛠️ Skills
+- HTML5  
+- CSS3  
+- JavaScript (Basics)  
+- Bootstrap  
+- Git & GitHub  
+- Canva (Basic Graphic Designing)
+
+---
+
+## 📂 Projects
+- Personal Portfolio Website  
+- GitHub User Info Card (API based)  
+- JavaScript Mini Projects  
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/zainabshakeel1082
+
